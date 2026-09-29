@@ -52,3 +52,25 @@ Retype new password:
 - less
 - mv
 
+## Editing files
+```
+    cat > filename
+    abc
+    xyz
+    ^C
+```
+
+*OR*
+
+```
+    vim filename
+    nano filename
+```
+
+## Directory commands
+- cd 
+- mkdir 
+- pwd
+- rmdir
+- rm
+- ls
