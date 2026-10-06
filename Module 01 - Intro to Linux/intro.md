@@ -74,3 +74,19 @@ Retype new password:
 - rmdir
 - rm
 - ls
+
+## Linux special files
+- Hardware Devices Eg. `/dev/lp0`
+- Logical devices Eg. `/dev/null`
+
+## File naming conventions 
+Alphabetic characters (Case-sensitive)
+    - upper case
+    - lower case
+Numbers
+@_(Other specials also allowed)
+No blanks
+May not begin with + or - 
+Case-sensitive
+Files are hidden if they start with a .
+255 characters max
